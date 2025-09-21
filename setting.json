@@ -1,0 +1,8 @@
+{
+    "glassit.alpha": 220,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveSassCompile.settings.showOutputWindowOn": "None",
+    "files.autoSave": "afterDelay",
+    "window.restoreWindows": "none",
+    "workbench.startupEditor": "none"
+}
